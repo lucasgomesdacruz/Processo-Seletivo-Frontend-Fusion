@@ -30,6 +30,14 @@
 - **Formas de Contato**: Links para redes sociais como LinkedIn, WhatsApp e E-mail, para facilitar a comunicação.</br>
 - **Responsividade**: A página foi construída para garantir uma boa experiência em dispositivos móveis e desktops.</br>
 
+#### 1- Clone o repositório para sua máquina local: git clone https://github.com/seu-usuario/apresentacao-lucas-gomes.git
+
+#### 2- Instale as dependências: npm install
+
+#### 3 -Inicie o servidor de desenvolvimento: npm start
+
+####4 - Acesse o projeto em http://localhost:3000.
+
 
 ### 👷 Autores
 
