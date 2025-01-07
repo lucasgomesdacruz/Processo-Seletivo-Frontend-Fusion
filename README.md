@@ -36,7 +36,7 @@
 
 #### 3 -Inicie o servidor de desenvolvimento: npm start
 
-####4 - Acesse o projeto em http://localhost:3000.
+#### 4 - Acesse o projeto em http://localhost:3000.
 
 
 ### 👷 Autores
