@@ -44,7 +44,7 @@
 **Lucas Gomes - Front-End do projeto - [@LucasGomes](https://github.com/lucasgomesdacruz)**
 
 ### Acesso ao projeto
-Você pode acessar o projeto final clicando aqui: <a>https://processo-seletivo-frontend-fusion.vercel.app/</a>
+Você pode acessar o projeto final clicando aqui: <a>https://apresentacaofusion.vercel.app/</a>
 
 ### 📄 Licença
 Esse projeto está sob a licença (MIT License)
