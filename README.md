@@ -1,16 +1,16 @@
 
 
-# 🕹️ Apresentação - Lucas Gomes
+# Picsum Photos Gallery
+# 📸 Sobre o Projeto
 
-### Esta é uma página de apresentação pessoal, onde compartilho minhas **habilidades** como desenvolvedor Front-End, **projetos** realizados, e formas de contato.</br>
+### Este é um projeto de galeria de imagens desenvolvido com React.js, TypeScript e Tailwind CSS. Ele consome a API do Lorem Picsum para exibir imagens e permite a filtragem por autor e a marcação de imagens favoritas.</br>
 # Desktop
-![Lucas-Gomes-Desenvolvedor-01-07-2025_03_07_PM](https://github.com/user-attachments/assets/3ce6f341-4578-4d71-9c8d-7a8c68184a6a)
+![Macbook-Air-fusion-galeria vercel app](https://github.com/user-attachments/assets/4132d4bf-5f23-4152-ba23-65e8b8aa9dac)
 
-# Tablet 
-![iPad-PRO-11-processo-seletivo-frontend-fusion vercel app](https://github.com/user-attachments/assets/76f1b13a-9105-4350-b66d-84088dc55301)
 
-# Celular
-![iPhone-13-PRO-processo-seletivo-frontend-fusion vercel app](https://github.com/user-attachments/assets/80d537d8-2178-4523-a418-98cb6936de22)
+# mobile
+![iPhone-13-PRO-fusion-galeria vercel app](https://github.com/user-attachments/assets/3dbfbe66-d966-41b6-86fe-bedb74dabafa)
+
 
 
 
@@ -21,7 +21,21 @@
 - **ReactJS**: Biblioteca JavaScript para construção da interface do usuário.</br>
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática, melhorando a qualidade e a manutenção do código.</br>
 - **Tailwind CSS**: Framework CSS utilitário para criar layouts responsivos e customizados de forma eficiente.</br>
-- **React Icons**: Biblioteca para ícones customizados que ajudam a melhorar a interface.</br>
+- **LocalStorage** - Persistência de dados no navegador.</br>
+
+## 🎨 Recursos Implementados
+
+- Exibição dinâmica de imagens paginadas.</br>
+
+- Filtro para busca de imagens pelo nome do autor.</br>
+
+- Sistema de favoritos com persistência no LocalStorage.</br>
+
+- Modal para visualização detalhada das imagens.</br>
+
+- Design responsivo com Tailwind CSS.</br>
+
+- Botões para carregar mais imagens e alternar entre todas e favoritas.</br>
 
 ## 🕹️ Funcionalidades
 
@@ -30,7 +44,41 @@
 - **Formas de Contato**: Links para redes sociais como LinkedIn, WhatsApp e E-mail, para facilitar a comunicação.</br>
 - **Responsividade**: A página foi construída para garantir uma boa experiência em dispositivos móveis e desktops.</br>
 
-#### 1- Clone o repositório para sua máquina local: git clone https://github.com/seu-usuario/apresentacao-lucas-gomes.git
+## 🌟 Funcionalidades Principais
+
+### 📷 Galeria de Imagens
+
+- ** Visualize imagens paginadas diretamente da API Lorem Picsum.
+
+- ** Filtre por autor para localizar imagens específicas.
+
+### ❤️ Favoritos
+
+- **Marque/desmarque** imagens como favoritas.
+
+- **Exiba somente** imagens marcadas como favoritas.
+
+### 🔍 Busca
+
+- **Campo de pesquisa** em tempo real para filtrar autores.
+
+- **📏 Responsividade**
+
+- **Layout** adaptável para todos os tamanhos de tela.
+
+# 🛠️ Ferramentas
+
+### React Hooks - Para gerenciar estados e efeitos colaterais.
+
+### Tailwind CSS - Para estilização rápida e consistente.
+
+#### LocalStorage - Para persistência dos favoritos.
+
+#### Fetch API - Para buscar imagens remotamente.
+
+# 🔧 Como Executar o Projeto
+
+#### 1- Clone o repositório para sua máquina local: git clone https://github.com/lucasgomesdacruz/Fusion-Galeria.git
 
 #### 2- Instale as dependências: npm install
 
@@ -44,7 +92,7 @@
 **Lucas Gomes - Front-End do projeto - [@LucasGomes](https://github.com/lucasgomesdacruz)**
 
 ### Acesso ao projeto
-Você pode acessar o projeto final clicando aqui: <a>https://apresentacaofusion.vercel.app/</a>
+Você pode acessar o projeto final clicando aqui: <a>https://fusion-galeria.vercel.app/</a>
 
 ### 📄 Licença
 Esse projeto está sob a licença (MIT License)
